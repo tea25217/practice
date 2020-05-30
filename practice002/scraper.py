@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+
 class Scraper:
     def __init__(self):
         pass
@@ -39,13 +40,13 @@ class Scraper:
         for pickup_link in pickup_links:
             pickup_res = requests.get(pickup_link)
             pickup_soup = BeautifulSoup(pickup_res.text, "html.parser")
-            pickup_elem = pickup_soup.find("p", class_="pickupMain_detailLink")    
+            pickup_elem = pickup_soup.find("p", class_="pickupMain_detailLink")
 
-            news_link = pickup_elem.contents[0].attrs['href']        
+            news_link = pickup_elem.contents[0].attrs['href']
             news_res = requests.get(news_link)
-            news_soup = BeautifulSoup(news_res.text, "html.parser")        
+            news_soup = BeautifulSoup(news_res.text, "html.parser")
             detail_text = news_soup.find(class_=re.compile("DetailText"))
-            
+
             if hasattr(detail_text, "text") and (word in detail_text.text):
                 arr.append(news_soup.title.text)
                 arr.append("\n")
@@ -54,12 +55,11 @@ class Scraper:
                 arr.append(detail_text.text)
                 arr.append("\n\n\n\n")
 
-        if len(arr)==0:
+        if len(arr) == 0:
             return False
         else:
             Scraper.makeFile(arr)
             return True
-
 
     def makeFile(arr):
         """Make text file from arr.
@@ -76,7 +76,7 @@ class Scraper:
 
         for i in arr:
             s = s + i
-        
+
         with open(path, mode='w') as f:
             f.write(s)
 

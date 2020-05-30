@@ -13,4 +13,3 @@ if __name__ == '__main__':
     frame = MyProject1MyFrame1(None)
     frame.Show(True)
     app.MainLoop()
-
