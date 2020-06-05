@@ -5,10 +5,10 @@
 ### ～準備～
 実行ファイルと同フォルダにkey.txtを作成し、以下の形式でAPIキーを記載してください。
 
-> consumer_key:hogehoge
-> consumer_secret:fugafuga
-> access_token:piyopiyo
-> access_secret:foobar
+> consumer_key:hogehoge<br>
+> consumer_secret:fugafuga<br>
+> access_token:piyopiyo<br>
+> access_secret:foobar<br>
 
 ### ～実行～
 フォームに入力された単語でパブサし、結果をresult.csvに出力します。
