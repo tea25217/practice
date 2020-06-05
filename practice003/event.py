@@ -39,7 +39,8 @@ def main(word: str) -> bool:
     """
     flag = False
     KEYS = loadAPIKey(FILEPASS_API_KEYS)
-    if (not word) or (not KEYS): return flag
+    if (not word) or (not KEYS):
+        return flag
 
     twitter = OAuth1Session(KEYS['consumer_key'], KEYS['consumer_secret'],
                             KEYS['access_token'], KEYS['access_secret'])
@@ -94,7 +95,7 @@ def getTwitterData(twitter, key_word, repeat=10):
 
     """
     url = "https://api.twitter.com/1.1/search/tweets.json"
-    params = {'q': key_word, 'count': '100', 'result_type': 'recent'}  #取得パラメータ
+    params = {'q': key_word, 'count': '100', 'result_type': 'recent'}  # 取得パラメータ
     tweets = []
 
     mid = -1
@@ -102,9 +103,9 @@ def getTwitterData(twitter, key_word, repeat=10):
     for i in range(repeat):
         params['max_id'] = mid  # midよりも古いIDのツイートのみを取得する
         res = twitter.get(url, params=params)
-        if res.status_code == 200:  #正常通信出来た場合
+        if res.status_code == 200:  # 正常通信出来た場合
 
-            sub_tweets = json.loads(res.text)['statuses']  #レスポンスからツイート情報を取得
+            sub_tweets = json.loads(res.text)['statuses']  # レスポンスからツイート情報を取得
 
             user_ids = []
             for tweet in sub_tweets:
@@ -119,7 +120,7 @@ def getTwitterData(twitter, key_word, repeat=10):
                 mid = -1
             print(mid)  # 時系列で見た時に最も古いツイートID
 
-        else:  #正常通信出来なかった場合(2018/9/24に修正しました)
+        else:  # 正常通信出来なかった場合(2018/9/24に修正しました)
             print("Failed: %d" % res.status_code)
 
     print("ツイート取得数：%s" % len(tweets))
@@ -142,17 +143,18 @@ def makeCSVFromTweets(tweets):
         bool: 1件以上のツイート情報を格納したCSVファイルを作成できたらTrue, それ以外はFalse
 
     """
-    if len(tweets) == 0:
-        return False
-    category = [
+    CATEGORY = [
         'created_at', 'screen_name', 'name', 'id_str', 'text', 'id_str',
         'in_reply_to_user_id_str', 'is_quote_status', 'lang'
     ]
 
+    if len(tweets) == 0:
+        return False
+
     try:
         with open("result.csv", "w", encoding="utf_8") as f:
             writer = csv.writer(f)
-            writer.writerow(category)
+            writer.writerow(CATEGORY)
             for tweet in tweets:
                 row = [
                     tweet['created_at'], tweet['user']['screen_name'],
