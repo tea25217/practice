@@ -1,4 +1,3 @@
-#!3.7
 # coding: utf-8
 """twitterAPIを使用してワード検索し結果をCSV保存
 
@@ -15,17 +14,20 @@ import calendar
 import csv
 from requests_oauthlib import OAuth1Session
 
+
+# twitterAPIのキーを記載したテキストファイル(.gitignoreに設定するよう注意)
+#
+#    以下の形式で記載
+#
+#    consumer_key:hogehoge
+#    consumer_secret:fugafuga
+#    access_token:piyopiyo
+#    access_secret:foobar
+#
 FILEPASS_API_KEYS = "./key.txt"
-"""twitterAPIのキーを記載したテキストファイル(.gitignoreに設定するよう注意)
 
-    以下の形式で記載
-
-    consumer_key:hogehoge
-    consumer_secret:fugafuga
-    access_token:piyopiyo
-    access_secret:foobar
-
-"""
+# APIリクエストの繰り返し回数。ツイート取得可能数に100ツイート/リクエストの制限があるため、指定回数ループする。
+API_REPEATS = 10
 
 
 def main(word: str) -> bool:
@@ -44,7 +46,7 @@ def main(word: str) -> bool:
 
     twitter = OAuth1Session(KEYS['consumer_key'], KEYS['consumer_secret'],
                             KEYS['access_token'], KEYS['access_secret'])
-    tweets = getTwitterData(twitter, word, repeat=1)
+    tweets = getTwitterData(twitter, word, repeat=API_REPEATS)
     flag = makeCSVFromTweets(tweets)
 
     return flag

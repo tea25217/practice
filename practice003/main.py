@@ -1,4 +1,3 @@
-#!3.7
 # coding: utf-8
 import tkinter
 import event
