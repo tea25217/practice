@@ -3,5 +3,5 @@
 フォルダパスが半角スペースのケースではうまく動作しなかったので、  
 対応版のbatファイルを作りました。  
   
-PowerShell 管理者モードで起動する(kamifuji.dyndns.org様)
+PowerShell 管理者モードで起動する(kamifuji.dyndns.org様)  
 [http://kamifuji.dyndns.org/PS-Support/intro/index.html](http://kamifuji.dyndns.org/PS-Support/intro/index.html)
