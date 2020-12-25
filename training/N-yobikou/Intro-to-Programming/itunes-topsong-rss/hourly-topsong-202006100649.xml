@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2020-06-09T14:35:01-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1490256995">https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2</id>
+				
+					<title>夜に駆ける - YOASOBI</title>
+				
+					
+				
+					<im:name>夜に駆ける</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e8/46/a5/e846a566-8bf8-9207-b0e2-f54f3afe52ea/mzaf_18045774889345394411.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 YOASOBI</rights>
+				
+					<im:releaseDate label="2019年12月15日 ">2019-12-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>夜に駆ける - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - 夜に駆ける アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;夜に駆ける&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2&quot;&gt;夜に駆ける - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年12月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1460439002">https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2</id>
+				
+					<title>香水 - 瑛人</title>
+				
+					
+				
+					<im:name>香水</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3a/af/c6/3aafc698-dc2f-df3f-1e69-f0b164a87feb/mzaf_4836307686039652234.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E7%91%9B%E4%BA%BA/1460231799?uo=2">瑛人</im:artist>
+				
+					<im:price amount="204.00000" currency="JPY">¥204</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Eito</rights>
+				
+					<im:releaseDate label="2019年4月21日 ">2019-04-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>香水 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4-single/1460439001?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;瑛人 - 香水 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2&quot;&gt;香水&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4-single/1460439001?uo=2&quot;&gt;香水 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E7%91%9B%E4%BA%BA/1460231799?uo=2&quot;&gt;瑛人&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥204
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月21日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Eito&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1517174339">https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA/1517174338?i=1517174339&amp;uo=2</id>
+				
+					<title>しゃくなげ色の空 - 長渕剛 feat. AI</title>
+				
+					
+				
+					<im:name>しゃくなげ色の空</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA/1517174338?i=1517174339&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/36/d7/e8/36d7e853-8006-16fc-90ec-ff9e6d0ad308/mzaf_2501560077297736136.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E9%95%B7%E6%B8%95-%E5%89%9B/334651115?uo=2">長渕剛 feat. AI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/b2/09/0f/b2090fb0-3d7b-4300-d718-a232cdd853eb/DISA-0286_000_0000_A11_001.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/b2/09/0f/b2090fb0-3d7b-4300-d718-a232cdd853eb/DISA-0286_000_0000_A11_001.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/09/0f/b2090fb0-3d7b-4300-d718-a232cdd853eb/DISA-0286_000_0000_A11_001.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 OFFICEREN</rights>
+				
+					<im:releaseDate label="2020年6月9日 ">2020-06-09T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>しゃくなげ色の空 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA-single/1517174338?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA/1517174338?i=1517174339&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;長渕剛 feat. AI - しゃくなげ色の空 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/09/0f/b2090fb0-3d7b-4300-d718-a232cdd853eb/DISA-0286_000_0000_A11_001.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA/1517174338?i=1517174339&amp;uo=2&quot;&gt;しゃくなげ色の空&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%8F%E3%81%AA%E3%81%92%E8%89%B2%E3%81%AE%E7%A9%BA-single/1517174338?uo=2&quot;&gt;しゃくなげ色の空 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E9%95%B7%E6%B8%95-%E5%89%9B/334651115?uo=2&quot;&gt;長渕剛 feat. AI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年6月9日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 OFFICEREN&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1459242780">https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2</id>
+				
+					<title>紅蓮華 - LiSA</title>
+				
+					
+				
+					<im:name>紅蓮華</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7f/15/7a/7f157ae3-c787-3ecb-6b3e-cb896bb29e31/mzaf_6078087960747745577.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/lisa/573943518?uo=2">LiSA</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 SACRA MUSIC</rights>
+				
+					<im:releaseDate label="2019年4月22日 ">2019-04-22T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>紅蓮華 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;LiSA - 紅蓮華 アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;紅蓮華&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2&quot;&gt;紅蓮華 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/lisa/573943518?uo=2&quot;&gt;LiSA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 SACRA MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1509494402">https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2</id>
+				
+					<title>ハルジオン - YOASOBI</title>
+				
+					
+				
+					<im:name>ハルジオン</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/62/07/aa/6207aa65-50ad-b98f-c491-a3009f3f661b/mzaf_10047151167657506920.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 YOASOBI</rights>
+				
+					<im:releaseDate label="2020年5月11日 ">2020-05-11T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ハルジオン - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3-single/1509494398?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - ハルジオン アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2&quot;&gt;ハルジオン&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3-single/1509494398?uo=2&quot;&gt;ハルジオン - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年5月11日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1515680193">https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%A8%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E7%A9%BA%E3%81%AB-song-by-%E9%B6%B4%E4%B8%B8%E5%9B%BD%E6%B0%B8/1515680191?i=1515680193&amp;uo=2</id>
+				
+					<title>キミと見上げたあの日の空に song by 鶴丸国永 - 刀剣男士 formation of 葵咲</title>
+				
+					
+				
+					<im:name>キミと見上げたあの日の空に song by 鶴丸国永</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%A8%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E7%A9%BA%E3%81%AB-song-by-%E9%B6%B4%E4%B8%B8%E5%9B%BD%E6%B0%B8/1515680191?i=1515680193&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/96/53/69/9653698e-3683-2edb-5e76-1065c4f8f1e7/mzaf_13497846519512103092.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2">刀剣男士 formation of 葵咲</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/57/d6/46/57d646bc-9dc6-2cea-1683-9e08dab404ca/086015_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/57/d6/46/57d646bc-9dc6-2cea-1683-9e08dab404ca/086015_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/57/d6/46/57d646bc-9dc6-2cea-1683-9e08dab404ca/086015_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 ミュージカル『刀剣乱舞』製作委員会</rights>
+				
+					<im:collection><im:name>約束の空 (Type D) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-d-ep/1515680191?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%A8%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E7%A9%BA%E3%81%AB-song-by-%E9%B6%B4%E4%B8%B8%E5%9B%BD%E6%B0%B8/1515680191?i=1515680193&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;刀剣男士 formation of 葵咲 - キミと見上げたあの日の空に song by 鶴丸国永 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/57/d6/46/57d646bc-9dc6-2cea-1683-9e08dab404ca/086015_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%A8%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E7%A9%BA%E3%81%AB-song-by-%E9%B6%B4%E4%B8%B8%E5%9B%BD%E6%B0%B8/1515680191?i=1515680193&amp;uo=2&quot;&gt;キミと見上げたあの日の空に song by 鶴丸国永&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-d-ep/1515680191?uo=2&quot;&gt;約束の空 (Type D) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2&quot;&gt;刀剣男士 formation of 葵咲&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 ミュージカル『刀剣乱舞』製作委員会&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1515672288">https://music.apple.com/jp/album/s-song-by-%E6%98%8E%E7%9F%B3%E5%9B%BD%E8%A1%8C-%E5%BE%A1%E6%89%8B%E6%9D%B5-%E7%AF%AD%E6%89%8B%E5%88%87%E6%B1%9F/1515672283?i=1515672288&amp;uo=2</id>
+				
+					<title>S song by 明石国行・御手杵・篭手切江 - 刀剣男士 formation of 葵咲</title>
+				
+					
+				
+					<im:name>S song by 明石国行・御手杵・篭手切江</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/s-song-by-%E6%98%8E%E7%9F%B3%E5%9B%BD%E8%A1%8C-%E5%BE%A1%E6%89%8B%E6%9D%B5-%E7%AF%AD%E6%89%8B%E5%88%87%E6%B1%9F/1515672283?i=1515672288&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fc/51/da/fc51dab7-9c06-6e3b-6f70-80e89d514b31/mzaf_15745510000553179212.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2">刀剣男士 formation of 葵咲</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/ef/b1/75efb1fd-cd86-2bc8-feaa-27461132c5e7/086009_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/75/ef/b1/75efb1fd-cd86-2bc8-feaa-27461132c5e7/086009_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/75/ef/b1/75efb1fd-cd86-2bc8-feaa-27461132c5e7/086009_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 ミュージカル『刀剣乱舞』製作委員会</rights>
+				
+					<im:collection><im:name>約束の空 (Type A) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-a-ep/1515672283?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/s-song-by-%E6%98%8E%E7%9F%B3%E5%9B%BD%E8%A1%8C-%E5%BE%A1%E6%89%8B%E6%9D%B5-%E7%AF%AD%E6%89%8B%E5%88%87%E6%B1%9F/1515672283?i=1515672288&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;刀剣男士 formation of 葵咲 - S song by 明石国行・御手杵・篭手切江 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/75/ef/b1/75efb1fd-cd86-2bc8-feaa-27461132c5e7/086009_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/s-song-by-%E6%98%8E%E7%9F%B3%E5%9B%BD%E8%A1%8C-%E5%BE%A1%E6%89%8B%E6%9D%B5-%E7%AF%AD%E6%89%8B%E5%88%87%E6%B1%9F/1515672283?i=1515672288&amp;uo=2&quot;&gt;S song by 明石国行・御手杵・篭手切江&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-a-ep/1515672283?uo=2&quot;&gt;約束の空 (Type A) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2&quot;&gt;刀剣男士 formation of 葵咲&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 ミュージカル『刀剣乱舞』製作委員会&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1515675676">https://music.apple.com/jp/album/blackout-song-by-%E5%8D%83%E5%AD%90%E6%9D%91%E6%AD%A3/1515675674?i=1515675676&amp;uo=2</id>
+				
+					<title>Blackout song by 千子村正 - 刀剣男士 formation of 葵咲</title>
+				
+					
+				
+					<im:name>Blackout song by 千子村正</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/blackout-song-by-%E5%8D%83%E5%AD%90%E6%9D%91%E6%AD%A3/1515675674?i=1515675676&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/12/d7/99/12d799af-1549-b779-8ebd-860e2d6b5f5c/mzaf_15217702413468602382.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2">刀剣男士 formation of 葵咲</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/17/2b/e2/172be2ad-c46c-9eab-ec05-368cc4560290/086011_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/17/2b/e2/172be2ad-c46c-9eab-ec05-368cc4560290/086011_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/17/2b/e2/172be2ad-c46c-9eab-ec05-368cc4560290/086011_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 ミュージカル『刀剣乱舞』製作委員会</rights>
+				
+					<im:collection><im:name>約束の空 (Type B) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-b-ep/1515675674?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/blackout-song-by-%E5%8D%83%E5%AD%90%E6%9D%91%E6%AD%A3/1515675674?i=1515675676&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;刀剣男士 formation of 葵咲 - Blackout song by 千子村正 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/17/2b/e2/172be2ad-c46c-9eab-ec05-368cc4560290/086011_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/blackout-song-by-%E5%8D%83%E5%AD%90%E6%9D%91%E6%AD%A3/1515675674?i=1515675676&amp;uo=2&quot;&gt;Blackout song by 千子村正&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-b-ep/1515675674?uo=2&quot;&gt;約束の空 (Type B) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2&quot;&gt;刀剣男士 formation of 葵咲&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 ミュージカル『刀剣乱舞』製作委員会&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1459216694">https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2</id>
+				
+					<title>Pretender - Official髭男dism</title>
+				
+					
+				
+					<im:name>Pretender</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/fa/17/3f/fa173f3a-26be-c0a2-9113-4d81fe7b0bfb/mzaf_4753248623521236962.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2">Official髭男dism</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 PONY CANYON INC.</rights>
+				
+					<im:releaseDate label="2019年4月17日 ">2019-04-17T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Pretender - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pretender-single/1459216693?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Official髭男dism - Pretender アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2&quot;&gt;Pretender&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pretender-single/1459216693?uo=2&quot;&gt;Pretender - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2&quot;&gt;Official髭男dism&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月17日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 PONY CANYON INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-06-09T14:35:01-07:00</updated>
+				
+					<id im:id="1515675989">https://music.apple.com/jp/album/%E5%8B%9D%E3%81%A1%E3%81%AB%E8%A1%8C%E3%81%8F%E3%81%9C%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC/1515675983?i=1515675989&amp;uo=2</id>
+				
+					<title>勝ちに行くぜベイベー - 刀剣男士 formation of 葵咲</title>
+				
+					
+				
+					<im:name>勝ちに行くぜベイベー</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%8B%9D%E3%81%A1%E3%81%AB%E8%A1%8C%E3%81%8F%E3%81%9C%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC/1515675983?i=1515675989&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/03/70/6c/03706caa-ec26-e531-c238-05a754005d0b/mzaf_8316777458660921505.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2">刀剣男士 formation of 葵咲</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/35/f7/33/35f733b1-85e0-2e90-ea86-063e498f72bc/086019_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/35/f7/33/35f733b1-85e0-2e90-ea86-063e498f72bc/086019_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/35/f7/33/35f733b1-85e0-2e90-ea86-063e498f72bc/086019_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 ミュージカル『刀剣乱舞』製作委員会</rights>
+				
+					<im:collection><im:name>約束の空 (Type F) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-f-ep/1515675983?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%8B%9D%E3%81%A1%E3%81%AB%E8%A1%8C%E3%81%8F%E3%81%9C%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC/1515675983?i=1515675989&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;刀剣男士 formation of 葵咲 - 勝ちに行くぜベイベー アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/35/f7/33/35f733b1-85e0-2e90-ea86-063e498f72bc/086019_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%8B%9D%E3%81%A1%E3%81%AB%E8%A1%8C%E3%81%8F%E3%81%9C%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC/1515675983?i=1515675989&amp;uo=2&quot;&gt;勝ちに行くぜベイベー&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%A9%BA-type-f-ep/1515675983?uo=2&quot;&gt;約束の空 (Type F) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB-formation-of-%E8%91%B5%E5%92%B2/1515672284?uo=2&quot;&gt;刀剣男士 formation of 葵咲&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 ミュージカル『刀剣乱舞』製作委員会&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>

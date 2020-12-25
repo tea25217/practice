@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2020-07-06T06:05:48-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1521414181">https://music.apple.com/jp/album/%E6%84%9F%E9%9B%BB/1521414178?i=1521414181&amp;uo=2</id>
+				
+					<title>感電 - 米津玄師</title>
+				
+					
+				
+					<im:name>感電</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E6%84%9F%E9%9B%BB/1521414178?i=1521414181&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/79/8b/7e/798b7eec-1670-f16d-246c-70683a4f5ec2/mzaf_8920095964823552720.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/96/d8/36/96d83608-52e9-8383-70ec-741ad5518036/jacket_SEXX02031B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/96/d8/36/96d83608-52e9-8383-70ec-741ad5518036/jacket_SEXX02031B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/d8/36/96d83608-52e9-8383-70ec-741ad5518036/jacket_SEXX02031B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Sony Music Labels Inc.</rights>
+				
+					<im:releaseDate label="2020年7月6日 ">2020-07-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>STRAY SHEEP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/stray-sheep/1521414178?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E6%84%9F%E9%9B%BB/1521414178?i=1521414181&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - 感電 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/d8/36/96d83608-52e9-8383-70ec-741ad5518036/jacket_SEXX02031B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E6%84%9F%E9%9B%BB/1521414178?i=1521414181&amp;uo=2&quot;&gt;感電&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/stray-sheep/1521414178?uo=2&quot;&gt;STRAY SHEEP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年7月6日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1520367284">https://music.apple.com/jp/album/spark-again/1520367283?i=1520367284&amp;uo=2</id>
+				
+					<title>SPARK-AGAIN - Aimer</title>
+				
+					
+				
+					<im:name>SPARK-AGAIN</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/spark-again/1520367283?i=1520367284&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/7f/03/f5/7f03f597-3394-7b3e-3e9b-2d52f6c73ab2/mzaf_4988377944996141808.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/aimer/569972619?uo=2">Aimer</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/79/db/d2/79dbd2cc-4ba3-25a5-c277-c474f49d7e23/jacket_SECL02607B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/79/db/d2/79dbd2cc-4ba3-25a5-c277-c474f49d7e23/jacket_SECL02607B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/db/d2/79dbd2cc-4ba3-25a5-c277-c474f49d7e23/jacket_SECL02607B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Sony Music Labels Inc.</rights>
+				
+					<im:collection><im:name>SPARK-AGAIN - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/spark-again-ep/1520367283?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/spark-again/1520367283?i=1520367284&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Aimer - SPARK-AGAIN アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/db/d2/79dbd2cc-4ba3-25a5-c277-c474f49d7e23/jacket_SECL02607B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/spark-again/1520367283?i=1520367284&amp;uo=2&quot;&gt;SPARK-AGAIN&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/spark-again-ep/1520367283?uo=2&quot;&gt;SPARK-AGAIN - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/aimer/569972619?uo=2&quot;&gt;Aimer&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1490256995">https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2</id>
+				
+					<title>夜に駆ける - YOASOBI</title>
+				
+					
+				
+					<im:name>夜に駆ける</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e8/46/a5/e846a566-8bf8-9207-b0e2-f54f3afe52ea/mzaf_18045774889345394411.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 YOASOBI</rights>
+				
+					<im:releaseDate label="2019年12月15日 ">2019-12-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>夜に駆ける - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - 夜に駆ける アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;夜に駆ける&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2&quot;&gt;夜に駆ける - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年12月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1508133095">https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E5%BF%83/1508133094?i=1508133095&amp;uo=2</id>
+				
+					<title>裸の心 - あいみょん</title>
+				
+					
+				
+					<im:name>裸の心</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E5%BF%83/1508133094?i=1508133095&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/92/6e/54/926e54d5-e441-fd41-e228-d7cf98ba1ba1/mzaf_16833464501690335546.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2">あいみょん</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/65/ee/66/65ee664b-870b-7042-e66d-d4eb85b9b243/190295235017.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/65/ee/66/65ee664b-870b-7042-e66d-d4eb85b9b243/190295235017.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/65/ee/66/65ee664b-870b-7042-e66d-d4eb85b9b243/190295235017.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 WARNER MUSIC JAPAN</rights>
+				
+					<im:releaseDate label="2020年5月1日 ">2020-05-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>裸の心 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/naked-heart-single/1508133094?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E5%BF%83/1508133094?i=1508133095&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;あいみょん - 裸の心 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/65/ee/66/65ee664b-870b-7042-e66d-d4eb85b9b243/190295235017.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E5%BF%83/1508133094?i=1508133095&amp;uo=2&quot;&gt;裸の心&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/naked-heart-single/1508133094?uo=2&quot;&gt;裸の心 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2&quot;&gt;あいみょん&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年5月1日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 WARNER MUSIC JAPAN&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1460439002">https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2</id>
+				
+					<title>香水 - 瑛人</title>
+				
+					
+				
+					<im:name>香水</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3a/af/c6/3aafc698-dc2f-df3f-1e69-f0b164a87feb/mzaf_4836307686039652234.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E7%91%9B%E4%BA%BA/1460231799?uo=2">瑛人</im:artist>
+				
+					<im:price amount="204.00000" currency="JPY">¥204</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Eito</rights>
+				
+					<im:releaseDate label="2019年4月21日 ">2019-04-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>香水 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4-single/1460439001?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;瑛人 - 香水 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/63/6d/2d636d38-97b5-3b32-9869-9bf6d180f3e8/859754833927_cover.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4/1460439001?i=1460439002&amp;uo=2&quot;&gt;香水&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%99%E6%B0%B4-single/1460439001?uo=2&quot;&gt;香水 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E7%91%9B%E4%BA%BA/1460231799?uo=2&quot;&gt;瑛人&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥204
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月21日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Eito&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1521612216">https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8/1521611915?i=1521612216&amp;uo=2</id>
+				
+					<title>オヒアの木 - 浜崎あゆみ</title>
+				
+					
+				
+					<im:name>オヒアの木</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8/1521611915?i=1521612216&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/9d/1f/63/9d1f63ca-0f0b-d9f7-9790-279d3b871b75/mzaf_12963689294140326705.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF/73951471?uo=2">浜崎あゆみ</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/0b/c4/720bc4de-9ee2-6466-18a5-51d37ce8caf5/ANTCD-A0000002001.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/72/0b/c4/720bc4de-9ee2-6466-18a5-51d37ce8caf5/ANTCD-A0000002001.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/72/0b/c4/720bc4de-9ee2-6466-18a5-51d37ce8caf5/ANTCD-A0000002001.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 AVEX ENTERTAINMENT INC.</rights>
+				
+					<im:releaseDate label="2020年7月5日 ">2020-07-05T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>オヒアの木 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8-single/1521611915?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8/1521611915?i=1521612216&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;浜崎あゆみ - オヒアの木 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/72/0b/c4/720bc4de-9ee2-6466-18a5-51d37ce8caf5/ANTCD-A0000002001.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8/1521611915?i=1521612216&amp;uo=2&quot;&gt;オヒアの木&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%AA%E3%83%92%E3%82%A2%E3%81%AE%E6%9C%A8-single/1521611915?uo=2&quot;&gt;オヒアの木 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF/73951471?uo=2&quot;&gt;浜崎あゆみ&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年7月5日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 AVEX ENTERTAINMENT INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1519410583">https://music.apple.com/jp/album/make-you-happy/1519410580?i=1519410583&amp;uo=2</id>
+				
+					<title>Make you happy - NiziU</title>
+				
+					
+				
+					<im:name>Make you happy</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/make-you-happy/1519410580?i=1519410583&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d4/8b/67/d48b6790-267c-e6bc-2096-55066cb8fb84/mzaf_4556911488870049385.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/niziu/1519410581?uo=2">NiziU</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e5/cf/70/e5cf705c-60af-221f-c49c-0b98f62ceba0/jacket_EJXX00081B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/e5/cf/70/e5cf705c-60af-221f-c49c-0b98f62ceba0/jacket_EJXX00081B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/e5/cf/70/e5cf705c-60af-221f-c49c-0b98f62ceba0/jacket_EJXX00081B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Sony Music Labels Inc.</rights>
+				
+					<im:releaseDate label="2020年6月30日 ">2020-06-30T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Make you happy - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/make-you-happy-ep/1519410580?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/make-you-happy/1519410580?i=1519410583&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;NiziU - Make you happy アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/e5/cf/70/e5cf705c-60af-221f-c49c-0b98f62ceba0/jacket_EJXX00081B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/make-you-happy/1519410580?i=1519410583&amp;uo=2&quot;&gt;Make you happy&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/make-you-happy-ep/1519410580?uo=2&quot;&gt;Make you happy - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/niziu/1519410581?uo=2&quot;&gt;NiziU&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年6月30日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1459242780">https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2</id>
+				
+					<title>紅蓮華 - LiSA</title>
+				
+					
+				
+					<im:name>紅蓮華</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7f/15/7a/7f157ae3-c787-3ecb-6b3e-cb896bb29e31/mzaf_6078087960747745577.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/lisa/573943518?uo=2">LiSA</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 SACRA MUSIC</rights>
+				
+					<im:releaseDate label="2019年4月22日 ">2019-04-22T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>紅蓮華 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;LiSA - 紅蓮華 アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;紅蓮華&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2&quot;&gt;紅蓮華 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/lisa/573943518?uo=2&quot;&gt;LiSA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 SACRA MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1521618651">https://music.apple.com/jp/album/myra/1521618648?i=1521618651&amp;uo=2</id>
+				
+					<title>Myra - Tani Yuuki</title>
+				
+					
+				
+					<im:name>Myra</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/myra/1521618648?i=1521618651&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/70/f0/89/70f0891c-fdda-556b-a402-f23dbaa09ad4/mzaf_17824522629431582427.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/tani-yuuki/1521602916?uo=2">Tani Yuuki</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/9d/13/cf/9d13cfc3-30c6-dac6-29cd-edae3d6102ed/859755954300_cover.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/9d/13/cf/9d13cfc3-30c6-dac6-29cd-edae3d6102ed/859755954300_cover.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9d/13/cf/9d13cfc3-30c6-dac6-29cd-edae3d6102ed/859755954300_cover.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Tani Yuuki</rights>
+				
+					<im:releaseDate label="2020年7月1日 ">2020-07-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Myra - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/myra-single/1521618648?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/myra/1521618648?i=1521618651&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Tani Yuuki - Myra アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9d/13/cf/9d13cfc3-30c6-dac6-29cd-edae3d6102ed/859755954300_cover.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/myra/1521618648?i=1521618651&amp;uo=2&quot;&gt;Myra&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/myra-single/1521618648?uo=2&quot;&gt;Myra - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/tani-yuuki/1521602916?uo=2&quot;&gt;Tani Yuuki&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年7月1日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Tani Yuuki&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-07-06T06:05:48-07:00</updated>
+				
+					<id im:id="1509494402">https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2</id>
+				
+					<title>ハルジオン - YOASOBI</title>
+				
+					
+				
+					<im:name>ハルジオン</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/62/07/aa/6207aa65-50ad-b98f-c491-a3009f3f661b/mzaf_10047151167657506920.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 YOASOBI</rights>
+				
+					<im:releaseDate label="2020年5月11日 ">2020-05-11T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ハルジオン - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3-single/1509494398?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - ハルジオン アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f3/60/f3/f360f326-ca47-ccb0-c647-089a3c8bf2ca/195081470399.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3/1509494398?i=1509494402&amp;uo=2&quot;&gt;ハルジオン&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3-single/1509494398?uo=2&quot;&gt;ハルジオン - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年5月11日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
