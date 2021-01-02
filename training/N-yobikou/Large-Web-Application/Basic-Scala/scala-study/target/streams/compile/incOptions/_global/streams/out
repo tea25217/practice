@@ -1,2 +1,14 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = H:\vagrant\ubuntu64_18\workspace\practice\training\N-yobikou\Large-Web-Application\Basic-Scala\scala-study\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintFactorization.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: H:\vagrant\ubuntu64_18\workspace\practice\training\N-yobikou\Large-Web-Application\Basic-Scala\scala-study\target\scala-2.12\classes.bak[0m

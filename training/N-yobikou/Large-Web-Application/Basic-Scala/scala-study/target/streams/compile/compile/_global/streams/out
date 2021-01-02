@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mH:\vagrant\ubuntu64_18\workspace\practice\training\N-yobikou\Large-Web-Application\Basic-Scala\scala-study\PrintFactorization.scala:1:21: . expected[0m
+[0m[[0m[31merror[0m] [0m[0mimport Factorization[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
