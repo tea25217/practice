@@ -3,3 +3,6 @@
 target/
 project/
 .bsp/
+.metals/
+.bloop/
+project/metals.sbt
