@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(assembly, Some(7053c684-0064-4bcb-ac41-3f605a6e57e8), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: assembly[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[0minfo[0m] [0m[0mStrategy 'first' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[0minfo[0m] [0m[0mStrategy 'rename' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 14 s, completed 2021/01/29 20:05:16[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
