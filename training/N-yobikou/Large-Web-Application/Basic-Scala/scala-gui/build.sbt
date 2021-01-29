@@ -16,3 +16,8 @@ libraryDependencies += "org.openjfx" % "javafx-controls" % "11-ea+25" classifier
 libraryDependencies += "org.openjfx" % "javafx-fxml" % "11-ea+25" classifier osName.value
 libraryDependencies += "org.openjfx" % "javafx-graphics" % "11-ea+25" classifier osName.value
 libraryDependencies += "org.openjfx" % "javafx-web" % "11-ea+25" classifier osName.value
+
+assemblyMergeStrategy in assembly := {
+    case PathList("module-info.class") => MergeStrategy.first
+    case x => (assemblyMergeStrategy in assembly).value(x)
+}
