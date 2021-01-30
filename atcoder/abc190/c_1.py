@@ -1,4 +1,6 @@
 # 提出コードと別ファイルでリファクタリング
+# 復習のために解説URLを追記
+# https://atcoder.jp/contests/abc190/editorial/626
 
 n, m = map(int, input().split())
 terms = [list(map(int, input().split())) for i in range(m)]
