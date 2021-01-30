@@ -1,3 +1,6 @@
+# 復習のために解説URLを追記
+# https://atcoder.jp/contests/abc190/editorial/626
+
 n, m = map(int, input().split())
 terms = [[0 for j in range(2)] for i in range(m)]
 for i in range(m):
