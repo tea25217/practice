@@ -128,6 +128,7 @@ def getTwitterData(twitter, key_word, repeat=10):
             print("Failed: %d" % res.status_code)
 
     print("ツイート取得数：%s" % len(tweets))
+
     return tweets
 
 
