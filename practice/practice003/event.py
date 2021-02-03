@@ -58,7 +58,7 @@ def loadAPIKey(filepass):
         filepass(string): APIキーを記載したファイルのパス
 
     Returns:
-        dict or bool: 必要なAPIキーを全て読み込めた場合、辞書型で"APIキーの項目名:APIキーの値"を返却。それ以外はFalseを返却。
+        dict or bool: 必要なAPIキーを全て読み込めた場合、辞書型で"APIキーの項目名:APIキーの値"。それ以外はFalse。
 
     """
     APIkeys = {}
@@ -96,8 +96,10 @@ def getTwitterData(twitter, key_word, repeat=10):
         array of dict: 辞書型に変換したツイート情報を、各ツイートを要素とする配列で返却。
 
     """
+    # TwitterAPIのエンドポイントと取得用のパラメータ
     url = "https://api.twitter.com/1.1/search/tweets.json"
-    params = {'q': key_word, 'count': '100', 'result_type': 'recent'}  # 取得パラメータ
+    params = {'q': key_word, 'count': '100', 'result_type': 'recent'}
+
     tweets = []
 
     mid = -1
@@ -114,7 +116,7 @@ def getTwitterData(twitter, key_word, repeat=10):
                 user_ids.append(int(tweet['id']))
                 tweets.append(tweet)
 
-            # ループで取得したmidよりも古いツイートを取るための工夫（※もっと良い書き方ありそう）
+            # ループで取得したmidよりも古いツイートを取るための工夫
             if len(user_ids) > 0:
                 min_user_id = min(user_ids)
                 mid = min_user_id - 1
@@ -122,7 +124,7 @@ def getTwitterData(twitter, key_word, repeat=10):
                 mid = -1
             print(mid)  # 時系列で見た時に最も古いツイートID
 
-        else:  # 正常通信出来なかった場合(2018/9/24に修正しました)
+        else:  # 正常通信出来なかった場合
             print("Failed: %d" % res.status_code)
 
     print("ツイート取得数：%s" % len(tweets))
