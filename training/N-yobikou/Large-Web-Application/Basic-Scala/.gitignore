@@ -9,3 +9,4 @@ project/metals.sbt
 *.properties
 *.history*
 _*/
+*_cache_*/
