@@ -10,3 +10,4 @@ project/metals.sbt
 project/target/
 *.properties
 *.history*
+_*/
