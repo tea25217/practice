@@ -68,8 +68,8 @@ object ShortestPath {
       }
     }
 
-    println(distances)
-    println(distances(goal))
+//    println(distances)
+//    println(distances(goal))
   }
 
   def solveByDijkstra(start: Char, goal: Char, _edges: Seq[Edge]= edges): Unit = {
@@ -83,18 +83,20 @@ object ShortestPath {
       isUpdated = false
       var trash = Seq.empty[Edge]
       edges.foreach { e =>
-        if(distances(e.from) != Int.MaxValue
-          && distances(e.to) > distances(e.from) + e.distance) {
-          distances = distances + (e.to -> (distances(e.from) + e.distance))
-          isUpdated = true
+        if(distances(e.from) != Int.MaxValue) {
+          if (distances(e.to) > distances(e.from) + e.distance)
+          {
+            distances = distances + (e.to -> (distances(e.from) + e.distance))
+            isUpdated = true
+          }
           trash = trash :+ e
         }
       }
       edges = edges.filterNot(trash contains( _))
     }
 
-    println(distances)
-    println(distances(goal))
+//    println(distances)
+//    println(distances(goal))
   }
 
   def speedTest(): Unit = {
@@ -102,10 +104,12 @@ object ShortestPath {
     val goal = vertexes.last
     val repeat = 1000
     var results = Seq.empty[Long]
+    var startTime: Long = 0
+    var endTime: Long = 0
 
-    var startTime = System.currentTimeMillis
+    startTime = System.currentTimeMillis
     for (i <- 0 until repeat) solveByBellmanFord(start, goal)
-    var endTime = System.currentTimeMillis - startTime
+    endTime = System.currentTimeMillis - startTime
     results = results :+ endTime
 
     startTime = System.currentTimeMillis
