@@ -94,6 +94,28 @@ object ShortestPath {
     }
 
     println(distances)
-    println(distances(goal))  }
+    println(distances(goal))
+  }
+
+  def speedTest(): Unit = {
+    val start = vertexes.head
+    val goal = vertexes.last
+    val repeat = 1000
+    var results = Seq.empty[Long]
+
+    var startTime = System.currentTimeMillis
+    for (i <- 0 until repeat) solveByBellmanFord(start, goal)
+    var endTime = System.currentTimeMillis - startTime
+    results = results :+ endTime
+
+    startTime = System.currentTimeMillis
+    for (i <- 0 until repeat) solveByDijkstra(start, goal)
+    endTime = System.currentTimeMillis - startTime
+    results = results :+ endTime
+
+    println(s"BellmanFord: ${results(0)}")
+    println(s"Dijkstra: ${results(1)}")
+
+  }
 
 }
