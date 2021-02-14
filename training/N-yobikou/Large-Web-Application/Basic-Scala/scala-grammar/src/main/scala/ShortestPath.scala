@@ -1,5 +1,3 @@
-import scala.collection.mutable.ArrayBuffer
-
 case class Edge(from: Char, to: Char, distance: Int)
 
 object ShortestPath {
@@ -78,34 +76,25 @@ object ShortestPath {
     // 初期化
     var distances = vertexes.map(v => (v -> Int.MaxValue)).toMap
     distances = distances + (start -> 0)
-    var edges = ArrayBuffer(_edges: _*)
+    var edges = _edges
 
     var isUpdated = true
     while (isUpdated) {
       isUpdated = false
-      var trash = Seq.empty[Int]
-
-      if (!edges.isEmpty) {
-        for (i <- 0 until edges.length) {
-          val current = edges(i)
-          if (distances(current.from) != Int.MaxValue) {
-            if (distances(current.to) > distances(current.from) + current.distance) {
-              distances = distances + (current.to -> (distances(current.from) + current.distance))
-              isUpdated = true
-              trash = trash :+ i
-            }
+      var trash = Seq.empty[Edge]
+      edges.foreach { e =>
+        if(distances(e.from) != Int.MaxValue) {
+          if (distances(e.to) > distances(e.from) + e.distance)
+          {
+            distances = distances + (e.to -> (distances(e.from) + e.distance))
+            isUpdated = true
           }
+          trash = trash :+ e
         }
       }
-      if (!trash.isEmpty) {
-          var tmpTrash = Seq.empty[Edge]
-          for (i <- 0 until trash.length){
-            tmpTrash = tmpTrash :+ edges(trash(i))
-          }
-          edges = edges.filterNot(tmpTrash contains( _))
-      }
-
+      edges = edges.filterNot(trash contains( _))
     }
+
 //    println(distances)
 //    println(distances(goal))
   }
