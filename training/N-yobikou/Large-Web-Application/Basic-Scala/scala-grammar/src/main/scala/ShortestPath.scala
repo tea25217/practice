@@ -68,8 +68,8 @@ object ShortestPath {
       }
     }
 
-//    println(distances)
-//    println(distances(goal))
+    println(distances)
+    println(distances(goal))
   }
 
   def solveByDijkstra(start: Char, goal: Char, _edges: Seq[Edge]= edges): Unit = {
@@ -95,8 +95,8 @@ object ShortestPath {
       edges = edges.filterNot(trash contains( _))
     }
 
-//    println(distances)
-//    println(distances(goal))
+    println(distances)
+    println(distances(goal))
   }
 
   def solveByWarshallFloyd(start: Char, goal: Char): Unit = {
@@ -107,8 +107,8 @@ object ShortestPath {
     for (v1 <- vertexes; v2 <- vertexes; v3 <- vertexes) {
       distanceMap =  distanceMap + ((v2, v3) -> math.min(distance(v2, v3), distance(v2, v1) + distance(v1, v3)))
     }
-//    println(distanceMap)
-//    println(distanceMap((start, goal)))
+    println(distanceMap)
+    println(distanceMap((start, goal)))
   }
 
   def speedTest(): Unit = {
