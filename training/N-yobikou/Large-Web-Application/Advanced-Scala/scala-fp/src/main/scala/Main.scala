@@ -11,4 +11,13 @@ object Main {
     }
   }
 
+  @tailrec
+  def fact(n: Int, acc: Int = 1): Int = if (n <= 1) acc else fact(n - 1, n * acc)
+
+  case class Switch(isOn: Boolean)
+
+  def toggle(switch: Switch): Switch = Switch(!switch.isOn)
+
+  def twice(f: Int => Int): Int => Int = x => f(f(x))
+
 }
