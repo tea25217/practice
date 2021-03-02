@@ -10,5 +10,6 @@ class NumberFormatterSpec extends FlatSpec with DiagrammedAssertions{
     assert(format(1234567) === "1,234,567")
     assert(format(-123) === "-123")
     assert(format(-1234567) === "-1,234,567")
+    assert(format(0) === "0")
   }
 }
