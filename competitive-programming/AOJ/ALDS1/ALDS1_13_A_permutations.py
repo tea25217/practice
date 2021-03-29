@@ -1,13 +1,13 @@
-# DFS(バックトラック法)での解法
+# 順列全探索での解法
 
 from copy import deepcopy
+from itertools import permutations
 
 k = int(input())
 q = set()
 board = ["........" for i in range(8)]
 command = [list(False for j in range(8)) for i in range(8)]
-lr = list(range(8))
-lc = list(range(8))
+lc = []
 
 
 def add_command(command, r, c):
@@ -45,30 +45,23 @@ for i in range(k):
     r, c = map(int, input().split())
     board[r] = board[r][:c] + "Q" + board[r][c + 1:]
     add_command(command, r, c)
-    lr.remove(r)
-    lc.remove(c)
+    lc.append(c)
 
 
-def dfs(board, command, depth, lr, lc):
+patterns = permutations(range(8))
 
-    if depth > 7:
-        output_board(board)
 
-    new_lr = deepcopy(lr)
-    row = new_lr.pop(0)
-
-    for col in lc:
-        if command[row][col]:
+def check_pattern(pattern, lc, base_board, base_command):
+    board = deepcopy(base_board)
+    command = deepcopy(base_command)
+    for row, col in enumerate(pattern):
+        if col in lc:
             continue
-        new_lc = deepcopy(lc)
-        new_lc.remove(col)
-        new_board = deepcopy(board)
-        new_command = deepcopy(command)
-        new_board[row] = board[row][:col] + "Q" + board[row][col + 1:]
-        if depth == 7:
-            output_board(new_board)
-        add_command(new_command, row, col)
-        dfs(new_board, new_command, depth + 1, new_lr, new_lc)
+        if command[row][col]:
+            return (False, board)
+        board[row] = board[row][:col] + "Q" + board[row][col + 1:]
+        add_command(command, row, col)
+    return (True, board)
 
 
 def output_board(board):
@@ -77,4 +70,7 @@ def output_board(board):
     exit()
 
 
-dfs(board, command, k, lr, lc)
+for pattern in patterns:
+    isOK, result = check_pattern(pattern, lc, board, command)
+    if isOK:
+        output_board(result)
