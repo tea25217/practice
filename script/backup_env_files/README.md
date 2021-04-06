@@ -1,4 +1,4 @@
-run the following command.  
+Run the following command.  
 ~~~
 bash backup_env_files.sh
 ~~~
