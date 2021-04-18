@@ -1,3 +1,6 @@
+# 問題勘違いしてた
+# https://atcoder.jp/contests/arc117/tasks/arc117_d
+
 n = int(input())
 tree = [0] * (n + 1)
 adjacency = [[] for i in range(n + 1)]
