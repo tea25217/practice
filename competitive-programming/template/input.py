@@ -40,11 +40,8 @@ def toInverseElement(M, n):
         ans = 1
         for i in range(R):
             if b & (1 << i):
-                ans *= p
-                ans %= divider
-            p *= p
-            p %= divider
+                ans = (ans * p) % divider
+            p = (p ** 2) % divider
         return ans
 
     return modPow(n, M - 2, M)
-
