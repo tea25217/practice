@@ -15,3 +15,17 @@ a = [list(map(int, input().split())) for i in range(n)]
 backet = [0] * n
 # s[n][m] 初期値:0
 backet = [[0 for j in range(m)] for i in range(n)]
+
+
+# 定数
+M = 998244353
+M = 1000000007
+
+# 逆元
+Inv2 = 499122177    # mod 998244353における2の逆元
+Inv2 = 500000004    # mod 1000000007における2の逆元
+
+# mod M におけるnの逆元
+# mod Mの世界では÷nを×toInverseElement(n)に置き換える
+def toInverseElement(M, n):
+    return (1 + M) // n
