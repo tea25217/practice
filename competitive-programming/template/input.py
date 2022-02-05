@@ -30,4 +30,17 @@ Inv2 = 500000004    # mod 1000000007における2の逆元
 # mod Mの世界では÷nを×toInverseElement(n)に置き換える
 # 前提：Mとaが互いに素であること（逆元が存在する条件）
 def toInverseElement(M, n):
-    return (1 + M) // n
+
+    # 繰り返し二乗法で (a ** b) mod dividerを求める関数
+    def modPow(a, b, divider):
+        p = a
+        ans = 1
+        for i in range(30):
+            if b & (1 << i):
+                ans *= p
+                ans %= divider
+            p *= p
+            p %= divider
+        return ans
+
+    return modPow(n, M - 2, M)
