@@ -35,9 +35,10 @@ def toInverseElement(M, n):
 
     # 繰り返し二乗法で (a ** b) mod dividerを求める関数
     def modPow(a, b, divider):
+        R = 30
         p = a
         ans = 1
-        for i in range(30):
+        for i in range(R):
             if b & (1 << i):
                 ans *= p
                 ans %= divider
@@ -46,3 +47,4 @@ def toInverseElement(M, n):
         return ans
 
     return modPow(n, M - 2, M)
+
