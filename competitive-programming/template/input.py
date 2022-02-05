@@ -28,5 +28,6 @@ Inv2 = 500000004    # mod 1000000007における2の逆元
 
 # mod M におけるnの逆元
 # mod Mの世界では÷nを×toInverseElement(n)に置き換える
+# 前提：Mとaが互いに素であること（逆元が存在する条件）
 def toInverseElement(M, n):
     return (1 + M) // n
