@@ -25,6 +25,7 @@ M = 1000000007
 Inv2 = 499122177    # mod 998244353における2の逆元
 Inv2 = 500000004    # mod 1000000007における2の逆元
 
+
 # mod M におけるnの逆元
 # mod Mの世界では÷nを×toInverseElement(n)に置き換える
 def toInverseElement(M, n):
