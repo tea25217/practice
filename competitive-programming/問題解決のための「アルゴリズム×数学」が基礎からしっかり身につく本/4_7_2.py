@@ -2,7 +2,7 @@ from typing import List
 from copy import deepcopy
 from dataclasses import dataclass
 
-Billion = 10 ** 9
+M = 1000000007
 
 
 @dataclass
@@ -16,7 +16,7 @@ def multiplication(A: Matrix, B: Matrix) -> Matrix:
         for j in range(2):
             for k in range(2):
                 C.p[i][j] += A.p[i][k] * B.p[k][j]
-                C.p[i][j] %= Billion
+                C.p[i][j] %= M
 
     return deepcopy(C)
 
@@ -37,9 +37,9 @@ def power(A: Matrix, n: int) -> Matrix:
 
 
 n = int(input())
-A = Matrix([[1, 1], [1, 0]])
+A = Matrix([[2, 1], [1, 0]])
 B = power(A, n - 1)
 
-ans = (B.p[1][0] + B.p[1][1]) % Billion
+ans = (B.p[1][0] + B.p[1][1]) % M
 
 print(ans)
