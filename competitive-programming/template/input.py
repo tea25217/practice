@@ -72,3 +72,15 @@ for i in range(2 ** k):
         acc -= num
 
 print(acc)
+
+
+# メモ化再帰
+# @lru_cacheをつけるだけ
+from functools import lru_cache
+
+
+@lru_cache
+def hoge(x):
+    return hoge(x)
+
+
