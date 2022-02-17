@@ -74,6 +74,10 @@ for i in range(2 ** k):
 print(acc)
 
 
+# 再帰回数の上限変更
+from sys import setrecursionlimit
+setrecursionlimit(2000)
+
 # メモ化再帰
 # @lru_cacheをつけるだけ
 from functools import lru_cache
@@ -84,3 +88,10 @@ def hoge(x):
     return hoge(x)
 
 
+# 行列のt乗
+import numpy as np
+
+A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+t = 2
+A_t = np.linalg.matrix_power(A, t)
+print(A_t)
