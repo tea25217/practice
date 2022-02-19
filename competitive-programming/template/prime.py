@@ -4,13 +4,13 @@ import numpy as np
 
 
 def isPrime(n: int) -> bool:
-    """試し割り法
+    """Check n whether prime number or not, by trial division
 
     Args:
-        n (int): 対象の整数
+        n (int): number
 
     Returns:
-        _bool: 素数かどうか
+        _bool: prime number or not
     """
     if n <= 1:
         return False
@@ -21,7 +21,7 @@ def isPrime(n: int) -> bool:
 
 
 def generateBoolPrimeList(n: int) -> Iterable[bool]:
-    """ Generate boolean list of prime number by Sieve of Eratosthenes
+    """Generate boolean list of prime number, by Sieve of Eratosthenes
 
     Args:
         n (int): max number (n >= 3)
@@ -42,7 +42,7 @@ def generateBoolPrimeList(n: int) -> Iterable[bool]:
 
 
 def generatePrimeList(n: int) -> Iterable[int]:
-    """ Generate prime number list
+    """Generate prime number list
 
     Args:
         n (int): max number (n >= 3)
