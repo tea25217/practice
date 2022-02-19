@@ -1,4 +1,6 @@
-# hoge
+# input
+
+# foobar
 s = input()
 # 1
 n = int(input())
@@ -18,6 +20,8 @@ backet = [[0 for j in range(m)] for i in range(n)]
 
 
 # 定数
+
+# 素数
 M = 998244353
 M = 1000000007
 
@@ -27,6 +31,7 @@ Inv2 = 500000004    # mod 1000000007における2の逆元
 
 
 # mod M におけるnの逆元
+
 # mod Mの世界では÷nを×toInverseElement(n)に置き換える
 # 前提1：Mとaが互いに素であること（逆元が存在する条件）
 # 前提2：Mが素数であること（フェルマーの小定理を用いた方法のため）
