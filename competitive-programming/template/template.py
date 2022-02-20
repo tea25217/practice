@@ -52,6 +52,25 @@ def toInverseElement(M, n):
     return modPow(n, M - 2, M)
 
 
+# 最大公約数・最小公倍数
+# numpyを使う
+import numpy as np
+
+# 片方がリストの場合、数値の方とリストの要素ごとに計算
+# リスト同士は要素ごとに計算
+# 片方が0の場合はもう片方を返す
+gcd1 = np.gcd(4, 6)     # 2
+gcd2 = np.gcd(3, [3, 9, 15, 20])    # [3, 3, 3, 1]
+gcd3 = np.gcd([0, 1, 2, 3], [2, 4, 6, 0])   # [2, 1, 2, 3]
+
+# gcdと同様
+lcm1 = np.lcm(4, 6)     # 12
+
+# reduceメソッドを持ってる
+lcmReduce = np.lcm.reduce([2, 3, 4])    # 12
+gcdReduce = np.gcd.reduce([12, 6, 3], [6, 8, 0], [4, 3, 6])     # [2, 1, 3]
+
+
 # NumPyでbit全探索する時のテンプレ
 
 # (N以下の整数の中でV1..Vkいずれかの倍数であるものの個数を出力するプログラム)
