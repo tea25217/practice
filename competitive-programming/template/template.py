@@ -119,3 +119,15 @@ A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 t = 2
 A_t = np.linalg.matrix_power(A, t)
 print(A_t)
+
+
+# 角度
+
+# 偏角による角ABCの求め方
+# 点A(x1, y1), 点B(x2, y2), 点C(x3, y3)があるとき
+# 点Bを原点とみなした点A,Cの偏角をt1,t2とすると
+ABC = min(abs(t1 - t2), 360 - abs(t1 - t2))
+# 偏角tは
+import math
+
+t = math.atan2(y, x) * 180 / math.pi
