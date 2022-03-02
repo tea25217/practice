@@ -1,3 +1,5 @@
+# 遅延評価セグ木のバグが一生取れないけど時間永遠に吸われてるから一旦放棄
+
 from typing import Any, Callable, Generator, List
 
 
@@ -44,28 +46,6 @@ class SegTree:
 
     def query(self, L: int, R: int) -> Any:
         """apply f to [l, r)
-
-        Example:
-
-        Apply to [2, 5)
-
-        Array
-        [0][1][2 ][3 ][4 ][5 ][6 ][7 ]
-
-        Apply targets
-        [*][*][2 ][3 ][4 ][* ][* ][* ]
-
-        Segment Tree
-        [            1            ]
-        [      2     ][     3     ]
-        [  4  ][  5  ][  6  ][  7  ]
-        [8][9][10][11][12][13][14][15]
-
-        Apply targets
-        [            *            ]
-        [      *     ][     *     ]
-        [  *  ][  5  ][  *  ][  *  ]
-        [*][*][* ][* ][12][* ][* ][* ]
 
         Args:
             L (int): index (0-index)
@@ -221,6 +201,10 @@ class LazySegTreeRUQ(LazySegTree):
         self._eval(L, R)
         return super().query(L, R)
 
+    def get(self, k: int) -> Any:
+        self._eval(k, k + 1)
+        return self.tree[k + self.leavesSize]
+
 
 def main():
     def assertSegTree():
@@ -247,12 +231,12 @@ def main():
         updatePrintAndAssert(seg2, 4, 0, 0, 5, 0)   # arr[4] == 0, max(arr) == 0 (arr[4])
         updatePrintAndAssert(seg2, 0, 1, 0, 5, 1)   # arr[0] == 1, max(arr) == 1 (arr[0])
 
-    def assertLazySegTreeRUQ():
-        def printLazyTreeInfo(tree):
-            print(f"tree: {tree.tree}")
-            print(f"lazy: {tree.lazy}")
-            print(f"leaves: {tree.tree[tree.leavesSize:]}")
+    def printLazyTreeInfo(tree):
+        print(f"tree: {tree.tree}")
+        print(f"lazy: {tree.lazy}")
+        print(f"leaves: {tree.tree[tree.leavesSize:]}")
 
+    def assertLazySegTreeRUQ():
         segRUQ = LazySegTreeRUQ(5, max, -float('inf'))
         segRUQ.update(0, 5, 1)
         print("***** update [0, 5) +1")
@@ -266,6 +250,36 @@ def main():
         print(segRUQ.query(0, 5))
         print("***** query [0, 5)")
         printLazyTreeInfo(segRUQ)
+
+    # TLE
+    # https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_D
+    def DSL_2_D():
+        n, q = map(int, input().split())
+        lazySeg = LazySegTreeRUQ(n, lambda _, x: x if x != 2 ** 31 - 1 else _, 2 ** 31 - 1)
+        for q_i in range(q):
+            query = input()
+            if query[0] == '0':
+                _, s, t, x = map(int, query.split())
+                lazySeg.update(s, t + 1, x)
+            elif query[0] == '1':
+                i = int(query.split()[1])
+                print(lazySeg.get(i))
+
+    # WA
+    # https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_F&lang=ja
+    def DSL_2_F():
+        n, q = map(int, input().split())
+        lazySeg = LazySegTreeRUQ(n, min, 2 ** 31 - 1)
+        for q_i in range(q):
+            query = input()
+            if query[0] == '0':
+                _, s, t, x = map(int, query.split())
+                lazySeg.update(s, t + 1, x)
+            elif query[0] == '1':
+                _, s, t = map(int, query.split())
+                print(lazySeg.query(s, t + 1))
+                print(printLazyTreeInfo(lazySeg))
+
 
 if __name__ == '__main__':
     main()
