@@ -30,26 +30,26 @@ Inv2 = 499122177    # mod 998244353における2の逆元
 Inv2 = 500000004    # mod 1000000007における2の逆元
 
 
-# mod M におけるnの逆元
+# 繰り返し二乗法
+# (a ** b) mod divider
+def modPow(a, b, divider):
+    R = 30
+    p = a
+    ans = 1
+    for i in range(R):
+        if b & (1 << i):
+            ans = (ans * p) % divider
+        p = (p ** 2) % divider
+    return ans
 
-# mod Mの世界では÷nを×toInverseElement(n)に置き換える
-# 前提1：Mとaが互いに素であること（逆元が存在する条件）
-# 前提2：Mが素数であること（フェルマーの小定理を用いた方法のため）
-# 素数以外で使う場合は拡張ユークリッドの互除法で実装し直す
-def toInverseElement(M, n):
 
-    # 繰り返し二乗法で (a ** b) mod dividerを求める関数
-    def modPow(a, b, divider):
-        R = 30
-        p = a
-        ans = 1
-        for i in range(R):
-            if b & (1 << i):
-                ans = (ans * p) % divider
-            p = (p ** 2) % divider
-        return ans
+# 行列のt乗
+import numpy as np
 
-    return modPow(n, M - 2, M)
+A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+t = 2
+A_t = np.linalg.matrix_power(A, t)
+print(A_t)
 
 
 # 最大公約数・最小公倍数
@@ -106,19 +106,9 @@ setrecursionlimit(2000)
 # @lru_cacheをつけるだけ
 from functools import lru_cache
 
-
 @lru_cache
 def hoge(x):
     return hoge(x)
-
-
-# 行列のt乗
-import numpy as np
-
-A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
-t = 2
-A_t = np.linalg.matrix_power(A, t)
-print(A_t)
 
 
 # 角度
