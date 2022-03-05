@@ -8,9 +8,10 @@ for i in range(1, 10):
 for i in range(2, n + 1):
     for j in range(1, 10):
         if j == 9:
-            dp[i][j] = (dp[i- 1][j - 1] + dp[i- 1][j]) % M
+            dp[i][j] = (dp[i - 1][j - 1] + dp[i - 1][j]) % M
         else:
-            dp[i][j] = ((dp[i- 1][j - 1] + dp[i- 1][j]) % M + dp[i- 1][j + 1]) % M
+            dp[i][j] = (
+                (dp[i - 1][j - 1] + dp[i - 1][j]) % M + dp[i - 1][j + 1]) % M
 
 ans = sum(dp[n]) % M
 print(ans)
