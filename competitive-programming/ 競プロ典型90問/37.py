@@ -79,7 +79,7 @@ def solve(j):
     s = max(j - R, 0)
     if g > 0 and g > s:
         lastValue = tree.tree[tree.leavesSize + j]
-        newValue = max(tree.query(s, g) + dish, lastValue)
+        newValue = tree.query(s, g) + dish
         if newValue > lastValue:
             tree.update(j, newValue)
 
