@@ -1,5 +1,6 @@
 # ワーストケースでTLE
 # セグ木のロジックを改善するかスライド最小値でやる必要がある
+import sys
 from typing import Any, Callable, List
 
 
@@ -69,7 +70,7 @@ class SegTree:
         return res
 
 
-w, n = map(int, input().split())
+w, n = map(int, sys.stdin.readline().split())
 tree = SegTree(w + 1, max, -float("inf"))
 tree.update(0, 0)
 
@@ -85,11 +86,11 @@ def solve(j):
 
 
 for i in range(1, n):
-    L, R, dish = map(int, input().split())
+    L, R, dish = map(int, sys.stdin.readline().split())
     for j in range(w, L - 1, -1):
         solve(j)
 
-L, R, dish = map(int, input().split())
+L, R, dish = map(int, sys.stdin.readline().split())
 solve(w)
 
 ans = tree.tree[tree.leavesSize + w]
