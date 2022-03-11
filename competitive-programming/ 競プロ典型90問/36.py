@@ -24,7 +24,7 @@ def main():
         d3 = abs(compair[2] - manhattan[qi - 1][1])
         d4 = abs(compair[3] - manhattan[qi - 1][1])
         ans = max((d1, d2, d3, d4))
-        print(ans)
+        sys.stdout.write(str(ans) + "\n")
 
 
 main()

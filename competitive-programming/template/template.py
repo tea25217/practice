@@ -22,6 +22,11 @@ a = list(map(int, sys.stdin.readline().split()))
 a = [list(map(int, input().split())) for i in range(n)]
 a = [list(map(int, sys.stdin.readline().split())) for i in range(n)]
 
+# 出力
+# 実行時間がギリギリな場合はsys.stdout.write()を使う
+# print()より速い
+sys.stdout.write(str(ans) + "\n")
+
 
 # s[n] 初期値:0
 backet = [0] * n
