@@ -1,4 +1,4 @@
-# まだワーストケースが通らない
+# ワーストケースが通らない
 
 # 入力
 n, k = map(int, input().split())
@@ -40,6 +40,7 @@ dp = [[INF] * (k + 1) for i in range(2 ** n)]
 dp[0][0] = 0
 for j in range(1, k + 1):
     for i in range(1, 2 ** n):
+        # reduceに書き換えたらかえって遅くなった
         minDist = INF
         for b in subsets[i]:
             minDist = min(minDist, max(dp[i - b][j - 1], dist[b]))
