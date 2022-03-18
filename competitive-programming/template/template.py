@@ -1,6 +1,6 @@
 # 入力
 
-# 実行時間がギリギリな場合はsys.stdin.readline()を使う
+# 入力が重い場合はsys.stdin.readline()を使う
 # input()より速い
 import sys
 
@@ -13,6 +13,11 @@ n = int(sys.stdin.readline())
 # 1 2
 a, b = map(int, input().split())
 a, b = map(int, sys.stdin.readline().split())
+# x1 x1
+# x2 y2
+# x3 y3
+dots = [tuple(map(int, input().split())) for i in range(n)]
+dots = [tuple(map(int, sys.stdin.readline().split())) for i in range(n)]
 # a0 a1 a2 a3 a4
 a = list(map(int, input().split()))
 a = list(map(int, sys.stdin.readline().split()))
@@ -136,3 +141,20 @@ ABC = min(abs(t1 - t2), 360 - abs(t1 - t2))
 import math
 
 t = math.atan2(y, x) * 180 / math.pi
+
+
+# 部分集合の列挙
+subsets = [[] for i in range(2 ** n)]
+for i in range(1, 2 ** n):
+    v = i
+    while v:
+        subsets[i].append(v)
+        v = (v - 1) & i
+
+# 部分集合の要素のインデックス列挙
+# bit全探索で1の位置を前計算したくなった時用
+subsetsIndexes = [[] for i in range(2 ** n)]
+for i in range(1, 2 ** n):
+    for j in range(n):
+        if (i >> j) & 1:
+            subsetsIndexes[i].append(j)
