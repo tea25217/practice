@@ -120,7 +120,7 @@ print(acc)
 
 # 再帰回数の上限変更
 from sys import setrecursionlimit
-setrecursionlimit(2000)
+setrecursionlimit(1000000000)
 
 # メモ化再帰
 # @lru_cacheをつけるだけ
@@ -158,3 +158,14 @@ for i in range(1, 2 ** n):
     for j in range(n):
         if (i >> j) & 1:
             subsetsIndexes[i].append(j)
+
+
+# 基数変換
+
+# n進数 -> 10進数
+n10 = int(n, 8)
+
+# 10進数 -> n進数
+import numpy as np
+
+n9 = np.base_repr(n10, base=9)
