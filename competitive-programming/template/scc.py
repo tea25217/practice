@@ -47,8 +47,6 @@ def scc(adj: List[List[int]], rAdj: List[List[int]], n: int) -> List[List[int]]:
 
         while q:
             c = q.popleft()
-            if not adj[c]:
-                continue
             for i in rAdj[c]:
                 if seen[i]:
                     continue
