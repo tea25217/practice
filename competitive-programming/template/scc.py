@@ -2,7 +2,7 @@ from sys import setrecursionlimit
 from collections import deque
 from copy import deepcopy
 from typing import List
-setrecursionlimit(200000)
+setrecursionlimit(1000000000)
 
 
 def scc(adj: List[List[int]], rAdj: List[List[int]], n: int) -> List[List[int]]:
