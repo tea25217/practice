@@ -2,7 +2,6 @@
 # 下がプラス、右がプラス
 from collections import deque
 import sys
-sys.setrecursionlimit(1000000000)
 
 n = int(sys.stdin.readline())
 ax, ay = map(int, sys.stdin.readline().split())
@@ -13,45 +12,41 @@ ay -= 1
 bx -= 1
 by -= 1
 INF = 10 ** 9
-dp = [[INF] * n for _ in range(n)]
+dp = [[[INF] * 4 for j in range(n)] for i in range(n)]
 degree = ((1, 1), (1, -1), (-1, -1), (-1, 1))
-
 q = deque([])
-for d in degree:
-    if ax + d[0] < 0 or ax + d[0] >= n or ay + d[1] < 0 or ay + d[1] >= n:
-        continue
-    q.append((ax, ay, d, 1))
+
+for i in range(4):
+    dp[ax][ay][i] = 1
+    q.append((ax, ay, i))
 
 while q:
-    x, y, d, c = q.pop()
+    x, y, d = q.popleft()
+    c = dp[x][y][d]
 
     if x == bx and y == by:
-        break
+        print(c)
+        exit()
 
-    for nd in degree:
-        nx = x + nd[0]
-        ny = y + nd[1]
+    for i in range(4):
+        nx = x + degree[i][0]
+        ny = y + degree[i][1]
 
-        if x + nx < 0 or x + nx >= n or y + ny < 0 or y + ny >= n:
+        if nx < 0 or nx >= n or ny < 0 or ny >= n:
             continue
         if s[nx][ny] == "#":
             continue
 
-        if d != nd:
-            nc = c + 1
-        else:
-            nc = c
+        cost = 0 if d == i else 1
+        nc = c + cost
 
-        if dp[nx][ny] <= nc:
+        if dp[nx][ny][i] <= nc:
             continue
-        dp[nx][ny] = nc
+        dp[nx][ny][i] = nc
 
-        if d == nd:
-            q.appendleft((nx, ny, nd, nc))
+        if cost:
+            q.append((nx, ny, i))
         else:
-            q.append((nx, ny, nd, nc))
+            q.appendleft((nx, ny, i))
 
-if dp[bx][by] == INF:
-    print(-1)
-else:
-    print(d[bx][by])
+print(-1)
