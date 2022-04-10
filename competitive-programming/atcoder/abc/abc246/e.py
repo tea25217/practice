@@ -24,4 +24,34 @@ for d in degree:
 
 while q:
     x, y, d, c = q.pop()
-    
+
+    if x == bx and y == by:
+        break
+
+    for nd in degree:
+        nx = x + nd[0]
+        ny = y + nd[1]
+
+        if x + nx < 0 or x + nx >= n or y + ny < 0 or y + ny >= n:
+            continue
+        if s[nx][ny] == "#":
+            continue
+
+        if d != nd:
+            nc = c + 1
+        else:
+            nc = c
+
+        if dp[nx][ny] <= nc:
+            continue
+        dp[nx][ny] = nc
+
+        if d == nd:
+            q.appendleft((nx, ny, nd, nc))
+        else:
+            q.append((nx, ny, nd, nc))
+
+if dp[bx][by] == INF:
+    print(-1)
+else:
+    print(d[bx][by])
