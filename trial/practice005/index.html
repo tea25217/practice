@@ -43,20 +43,22 @@
             console.log('My peer ID is: ' + id);
         });
 
-        var destId;
+        function callTo(peerId) {
+            // Call a peer, providing our mediaStream
+            var call = peer.call(peerId, mediaStream);
 
-        // Call a peer, providing our mediaStream
-        var call = peer.call(destId, mediaStream);
+            call.on('stream', function (stream) {
+                // `stream` is the MediaStream of the remote peer.
+                // Here you'd add it to an HTML video/canvas element.
+            });
+        };
 
         peer.on('call', function (call) {
             // Answer the call, providing our mediaStream
             call.answer(mediaStream);
         });
 
-        call.on('stream', function (stream) {
-            // `stream` is the MediaStream of the remote peer.
-            // Here you'd add it to an HTML video/canvas element.
-        });
+
     </script>
 </body>
 
