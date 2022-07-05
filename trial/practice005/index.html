@@ -6,6 +6,7 @@
 
 <body>
     <script>
+        // Prepare media devices.
         navigator.mediaDevices = navigator.mediaDevices || ((navigator.mozGetUserMedia || navigator.webkitGetUserMedia) ? {
             getUserMedia: function (c) {
                 return new Promise(function (y, n) {
@@ -20,10 +21,9 @@
         };
 
         // Prefer camera resolution nearest to 1280x720.
-
         var constraints = { audio: true, video: { width: 1280, height: 720 } };
-
         var mediaStream;
+
         navigator.mediaDevices.getUserMedia(constraints)
             .then(function (stream) {
                 var video = document.querySelector('video');
@@ -37,6 +37,7 @@
                 console.log(err.name + ": " + err.message);
             });
 
+        // Use PeerJS.
         const peer = new Peer();
 
         peer.on('open', function (id) {
