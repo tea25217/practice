@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <script src="https://unpkg.com/peerjs@1.3.2/dist/peerjs.min.js"></script>
+</head>
+
+<body>
+    <script>
+        const peer = new Peer();
+
+        peer.on('open', function (id) {
+            console.log('My peer ID is: ' + id);
+        });
+
+        // Call a peer, providing our mediaStream
+        var call = peer.call('dest-peer-id',
+            mediaStream);
+
+        peer.on('call', function (call) {
+            // Answer the call, providing our mediaStream
+            call.answer(mediaStream);
+        });
+    </script>
+</body>
+
+</html>
