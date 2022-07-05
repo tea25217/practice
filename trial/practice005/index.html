@@ -43,9 +43,10 @@
             console.log('My peer ID is: ' + id);
         });
 
+        var destId;
+
         // Call a peer, providing our mediaStream
-        var call = peer.call('dest-peer-id',
-            mediaStream);
+        var call = peer.call(destId, mediaStream);
 
         peer.on('call', function (call) {
             // Answer the call, providing our mediaStream
