@@ -47,8 +47,7 @@
             // `stream` is the MediaStream of the remote peer.
             // Here you'd add it to an HTML video/canvas element.
             console.log("On stream.");
-            var remoteStreamURL = URL.createObjectURL(remoteStream);
-            document.getElementById('remote-video').setAttribute('src', remoteStreamURL);
+            document.getElementById('remote-video').setAttribute('src', remoteStream);
         };
 
         function callTo(peerId) {
