@@ -1,0 +1,38 @@
+http://127.0.0.1:8000/
+
+###
+
+http://127.0.0.1:8000/hoge/
+
+###
+
+POST http://127.0.0.1:8000/ HTTP/1.1
+content-type: application/json
+
+###
+
+POST http://127.0.0.1:8000/translate HTTP/1.1
+content-type: application/json
+
+{
+    "params": {"text": "sample"}
+}
+
+###
+
+POST http://127.0.0.1:8000/translate HTTP/1.1
+content-type: application/json
+
+{
+    "params": {"text": "sample",
+                "key": "XXXXXXXXXXXXXXXX"}
+}
+
+###
+
+POST http://127.0.0.1:8000/usage HTTP/1.1
+content-type: application/json
+
+{
+    "params": {"key": "XXXXXXXXXXXXXXXX"}
+}
